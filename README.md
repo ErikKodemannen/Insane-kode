@@ -1,3 +1,3 @@
 # Informasjon
 
-dette er en fil
+dette er en fil c:
